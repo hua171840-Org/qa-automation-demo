@@ -1,1 +1,1 @@
-# qa-automation-demo
+# qa-automation-demo我是一名失业人员，我要学习软件自动化测试相关知识，并且在2027.3.1后投简历
