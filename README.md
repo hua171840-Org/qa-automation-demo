@@ -1,2 +1,3 @@
-# qa-automation-demo
-我是一名失业人员，我要学习软件自动化测试相关知识，并且在2027.3.1后投简历
+﻿# qa-automation-demo
+
+这是我第一次尝试使用git管理工具。
